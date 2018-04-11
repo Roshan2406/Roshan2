@@ -1,2 +1,4 @@
 Var B = 100
-for (i = 1 to 100,i > b, i++)
+var text
+for (i = 1 ,i > b, i++)
+{text = i + B}
